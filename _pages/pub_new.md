@@ -4,7 +4,6 @@ title: ""
 permalink: /pub_new/
 author_profile: true
 redirect_from:
-  - /resume
 ---
 
 # 📝 2025
