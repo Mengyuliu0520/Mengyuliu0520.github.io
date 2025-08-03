@@ -21,8 +21,6 @@ My research focuses on cyber-physical systems (CPS), including safety, security,
 # News
 
 - [2025-08] I joined WSU Tri-Cities as an Assistant Professor.
-- [2025-07] Presented our paper on deadline-safe RL at [Conference XYZ].
-- [2025-06] Gave an invited talk at [University ABC].
 
 <!-- Hey, cool website template! How did you build it?
 ------
