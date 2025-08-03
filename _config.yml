@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mengyu Liu"
-  pronouns         : "he/him"  
+  pronouns         : ""  
   bio              : "Assistant Professor"
   location         : "Richland, WA, USA"
   employer         : "Washington State University Tri-Cities"
@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=uhsBNxwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=2H504y0AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3396-8005"
+  orcid            : "https://orcid.org/0000-0002-3532-9506"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "sklasek"
+  github           : # URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "scott-klasek-61701437"
+  linkedin         : "mengyu-liu-6177b4b5"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
