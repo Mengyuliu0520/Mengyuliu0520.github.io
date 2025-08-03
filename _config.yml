@@ -27,9 +27,9 @@ author:
   pronouns         : ""  
   bio              : "Assistant Professor"
   location         : "Richland, WA, USA"
-  employer         : "Washington State University Tri-Cities"
+  employer         : "Washington State University"
   uri              : # URL
-  email            : "mengyu.liu@wsu.edu" 
+  email            : # URL 
 
   # Academic websites
   academia         : # URL
