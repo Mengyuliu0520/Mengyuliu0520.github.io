@@ -8,7 +8,7 @@ redirect_from:
 ---
 My name is Mengyu Liu (刘梦雨). I'm an assistant professor at Washington State University Tri-Cities. I obtained my Ph.D. from University of Notre Dame in 2025 under the advice of Professor Fanxin Kong. I also work closely with Professor Insup Lee and Professor Olge Sokolsky. I received DAC Young Fellow in 2020, ACM ESWEEK SRC in 2024, NSF CPS Rising Star in 2025.
 
-I am actively seeking highly motivated students for PhD, MS, and Research Intern positions starts from Spring 2026. If you are interested, please send me your CV, transcripts, and brief descriptions about why you want to work with me.
+**[Recruiting PhD students and Interns]** I am actively seeking highly motivated students for PhD students and Research Interns starts from Spring 2026 (For interns, you have to be physically at USA). If you are interested, please send me your CV, transcripts, and brief descriptions about why you want to work with me.
 
 Email: mengyu DOT liu AT wsu.edu
 
