@@ -6,8 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research centers around real-time cyber-physical systems subject to timing and safety requirements. My current research focused on the safe and time-sensitive control synthesis for autonomous systems. My general research goal is to make real-time cyber-phsyical systems reliable, resilient and time-efficient.
+My name is Mengyu Liu (刘梦雨). I'm an assistant professor at Washington State University Tri-Cities. I obtained my Ph.D. from University of Notre Dame in 2025 under the advice of Professor Fanxin Kong. I also work closely with Professor Insup Lee and Professor Olge Sokolsky. I received DAC Young Fellow in 2020, ACM ESWEEK SRC in 2024, NSF CPS Rising Star in 2025.
 
+I am actively seeking highly motivated students for PhD, MS, and Research Intern positions. If you are interested, please send me your CV, transcripts, and brief descriptions about why you want to work with me.
+
+Email: mengyu DOT liu AT wsu.edu
 
 
 <!-- Hey, cool website template! How did you build it?
