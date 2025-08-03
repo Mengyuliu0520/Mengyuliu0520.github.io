@@ -14,7 +14,7 @@ Email: mengyu DOT liu AT wsu.edu
 
 # Research Interests
 
-My research focuses on cyber-physical systems (CPS), including safety, security, real-time systems, and machine learning. I am particularly interested in reinforcement learning for control synthesis with formal guarantees, and CPS security under adversarial settings.
+My research focuses on cyber-physical systems (CPS), including safety, security, real-time control, and foundation models. I am particularly interested in reinforcement learning for control synthesis with formal guarantees, and CPS security under adversarial settings.
 ![My research](/images/research.png)
 
 
