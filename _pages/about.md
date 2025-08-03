@@ -12,6 +12,19 @@ I am actively seeking highly motivated students for PhD, MS, and Research Intern
 
 Email: mengyu DOT liu AT wsu.edu
 
+## Research Interests
+
+My research focuses on cyber-physical systems (CPS), including safety, security, real-time systems, and machine learning. I am particularly interested in reinforcement learning for control synthesis with formal guarantees, and CPS security under adversarial settings.
+
+## Teaching
+
+At Washington State University Tri-Cities, I teach courses in embedded systems, cyber-physical systems, and real-time systems. I also supervise student research projects on autonomous vehicles and robotics.
+
+## News
+
+- [2025-08] I joined WSU Tri-Cities as an Assistant Professor.
+- [2025-07] Presented our paper on deadline-safe RL at [Conference XYZ].
+- [2025-06] Gave an invited talk at [University ABC].
 
 <!-- Hey, cool website template! How did you build it?
 ------
