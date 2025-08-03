@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-## About me
------- 
 My research centers around real-time cyber-physical systems subject to timing and safety requirements. My current research focused on the safe and time-sensitive control synthesis for autonomous systems. My general research goal is to make real-time cyber-phsyical systems reliable, resilient and time-efficient.
 
 
