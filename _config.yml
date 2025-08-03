@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : ""
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Mengyu Liu"
 description              : &description "personal description"
 url                      : https://Mengyuliu0520.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Mengyu Liu"
   pronouns         : "he/him"  
-  bio              : "Microbial Bioinformatics Scientist"
-  location         : "Minneapolis, MN, USA"
-  employer         : "University of Minnesota"
+  bio              : "Assistant Professor"
+  location         : "Richland, WA, USA"
+  employer         : "Washington State University Tri-Cities"
   uri              : # URL
-  email            : "scott dot a dot klasek at gmail dot com" 
+  email            : "mengyu.liu@wsu.edu" 
 
   # Academic websites
   academia         : # URL
