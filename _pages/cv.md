@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-* Ph.D in Computer Engineering, University of Notre Dame, 2025
+* Ph.D. in Computer Engineering, University of Notre Dame, 2025
 * M.S. in Computer Science, Syracuse University, 2020
 * B.S. in Computer Science, University of Toronto, 2018
 
