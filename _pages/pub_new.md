@@ -8,7 +8,8 @@ redirect_from:
 
 # 📝 2025
 * Mengyu Liu, Pengyuan Lu, Shixiong Jiang, Xin Chen, Fanxin Kong, Oleg Sokolsky, Insup Lee. “Deadline-Safe Control Synthesis for Cyber-Physical Systems with Reinforcement Learning.” *Under review at ACM TECS*
-* Shixiong Jiang, Weizhe Xu, Mengyu Liu, Fanxin Kong.** “Query-Based Black-Box Stealthy Sensor Attacks on Cyber-Physical Systems.”  **DAC'25**
+* Shixiong Jiang, Weizhe Xu, Mengyu Liu, Fanxin Kong.  “Query-Based Black-Box Stealthy Sensor Attacks on Cyber-Physical Systems.”  **DAC'25**
+* M Hani Sulieman, Mengyu Liu, M Cenk Gursoy, Fanxin Kong. “Path planning for UAVs under GPS permanent faults. ” **ACM TCPS**
 
 
 # 📝 2024
@@ -26,6 +27,7 @@ redirect_from:
 # 📝 2023
 * Mengyu Liu, Lin Zhang, Weizhe Xu, Shixiong Jiang, Fanxin Kong. “CPSim: Simulation Toolbox for Security Problems in CPS.” **ACM TODAES**
 * Lin Zhang, Kaustubh Sridhar, Mengyu Liu, et al. “Real-Time Data-Predictive Attack-Recovery for Complex CPS.” **RTAS'23**
+* Lin Zhang, Mengyu Liu, Fanxin Kong. "Ai-enabled real-time sensor attack detection for cyber-physical systems" *Book chapter in AI Embedded Assurance for Cyber Systems*
 * Mengyu Liu, Lin Zhang, Vir Phoha, Fanxin Kong. “Learn-to-Respond: Sequence-Predictive Recovery from Sensor Attacks in CPS.” **RTSS'23**
 * Mengyu Liu, Pengyuan Lu, Xin Chen, Fanxin Kong, Oleg Sokolsky, Insup Lee. “Fulfilling Formal Specifications ASAP by Model-free RL.” *arXiv*
 
